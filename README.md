@@ -51,6 +51,9 @@ The API will be available at:
 ```bash
 curl -X GET http://127.0.0.1:8000/tasks
 ```
+##screenshot
+<img width="1830" height="951" alt="Screenshot (1649)" src="https://github.com/user-attachments/assets/f86547b0-9721-483e-9d24-9c5ae2f7dffb" />
+
 
 ## Author
 
